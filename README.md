@@ -1,0 +1,1 @@
+Database manipulator GUI, implemented using tkinter.
